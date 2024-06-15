@@ -1,0 +1,12 @@
+<article>
+
+<h1>adicione seu titulo</h1>
+
+<img src='imagem escolhida'>
+<p>
+seu texto,descrição e etc.
+</p>
+
+</article>
+
+<!--não é recomendado colocar espaço no nome da imagem, coloque o tipo de arquivo da imagem na frente como .jpeg e .png e não é obrigado colocar uma imagem-->
